@@ -15,8 +15,8 @@ I build gameplay systems and design character-driven mechanics, focusing on **ga
 
 ## 🛠️ Tech & Tools
 
-* 🎮 Unity Engine
-* 💻 C#
+* 🎮 Unity Engine, Godot engine
+* 💻 C#, C++, Java, Godot
 * 🎨 Blender (basic 3D assets)
 * 🧠 Game Design (mechanics, balancing, player experience)
 
